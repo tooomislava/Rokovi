@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Rokovi</string>
+    <string name="novo">Novi rok</string>
+    <string name="promjeni">Promjeni rok</string>
+    <string name="obrisi">Obriši rok</string>
+    <string name="odustani">Odustani</string>
+    <string name="datum">Datum</string>
+    <string name="kolegij">Kolegij</string>
+    <string name="brojPrijavljenih">Broj prijavljenih</string>
+    <string name="RESTAPI">https://oziz.ffos.hr/nastava20202021/tzilic_20/v2/</string>
+</resources>

@@ -1,0 +1,3 @@
+otvoriti terminal u VSC i izvesti naredbu: composer update
+Kreirati bazu: skripta.sql
+
